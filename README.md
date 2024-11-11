@@ -1,2 +1,1 @@
-# plant-sitter-app
-Plant Sitter Pro Re-Build
+Welcome to Plant Sitter Pro!
