@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import '../src/styles/App.css';
 import React, { useEffect, useState } from 'react';
 import axios from 'axios'
 
@@ -20,7 +20,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This has been edited.
+          This has been edited. AGAIN
         </p>
         <a
           className="App-link"
